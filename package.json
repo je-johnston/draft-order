@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/je-johnston/draft-order/issues"
   },
-  "homepage": "https://github.com/je-johnston/draft-order#readme"
+  "homepage": "https://github.com/je-johnston/draft-order#readme",
+  "dependencies": {
+    "jimp": "^0.16.1"
+  }
 }
