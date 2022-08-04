@@ -1,5 +1,8 @@
 # draft-order
 
+## Before running:
+npm install
+
 ## Run file with the clean directory: 
 node index.js
 
